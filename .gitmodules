@@ -1,3 +1,6 @@
 [submodule "meshflow"]
 	path = final/meshflow
 	url = https://github.com/qhan1028/Mesh-Flow-Video-Stabilization.git
+[submodule "final/meshflow"]
+	path = final/meshflow
+	url = https://github.com/qhan1028/Mesh-Flow-Video-Stabilization.git
